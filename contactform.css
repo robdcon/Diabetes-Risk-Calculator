@@ -1,0 +1,116 @@
+#formcontainer 
+{
+	margin: 50px auto;
+	width: 700px;
+	font-family: Century gothic;
+}
+label 
+
+{
+	width: auto;
+	display: inline-block;
+	width:250px;
+	margin-left: 20px;
+}
+#numberlabel 
+
+{
+	margin-left: 5px;
+}
+
+body
+
+{
+	font-family: Century gothic;
+}
+
+input 
+
+{
+	display: inline-block;
+
+
+
+}
+
+.alert 
+
+{
+	
+	display: inline-block;
+	margin-left: 1em;
+	float: right;
+	color: #000;
+
+}
+
+form 
+
+{
+	display: block;
+	width: auto;
+
+	
+}
+
+fieldset 
+
+{
+	display: block;
+}
+
+.field 
+
+{
+	height: 30px;
+	display: block;
+}
+
+#qmark 
+
+{
+	height: 15px;
+	width: 15px;
+	background: #dddddd;
+	position: absolute;
+	
+}
+
+#tooltip 
+
+{
+	height: 100px;
+	width: 150px;
+	margin-left: -150px;
+	margin-top: -100px;
+	position: absolute;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border-radius: 2px solid #ffffff;
+	font-family: Century gothic;
+	transition: all .2s ease-in;
+	-webkit-transition: all .2s ease-in;
+	-moz-transition: all .2s ease-in;
+	-o-transition: all .2s ease-in;
+
+}
+
+.hide
+
+{
+	opacity: 0;
+	display: block;
+}
+
+.borderalert
+
+{
+	box-shadow: 0px 0px 2px #ff0000;
+
+}
+
+input.placeholder
+{
+	font-style: italic;
+}
+

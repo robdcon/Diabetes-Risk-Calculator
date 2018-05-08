@@ -1,0 +1,33 @@
+#toolcontainer {
+
+	width:50%;
+	margin: 0 auto;
+
+}
+
+#calcTool, #toolresult {
+	background-color: #dddddd;
+	padding: 1%;
+	border: solid 2px #aaaaaa;
+	font-family: Century gothic;
+	margin: 10px;
+}
+
+#toolresult {
+
+	display: none;
+
+}
+
+tr {
+	height: 80px;
+}
+td {
+	text-align: right;
+	width:150px;
+}
+#btn {
+	height:30px;
+	width:100px;
+	margin:30px;
+}
